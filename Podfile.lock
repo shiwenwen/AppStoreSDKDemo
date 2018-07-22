@@ -1,0 +1,16 @@
+PODS:
+  - AppStoreSDK (1.0.7)
+
+DEPENDENCIES:
+  - AppStoreSDK
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AppStoreSDK
+
+SPEC CHECKSUMS:
+  AppStoreSDK: 1fb88a4f943e8d8bb88da4abc95598e12b6f6880
+
+PODFILE CHECKSUM: 70b0e309c342dcbe2dab4165f7d605de8b1ba809
+
+COCOAPODS: 1.5.3
